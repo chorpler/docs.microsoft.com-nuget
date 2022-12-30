@@ -10,3 +10,6 @@ _themes.VS.Modern/
 .vs/
 
 .openpublishing.buildcore.ps1
+
+# VSCode files
+.history
